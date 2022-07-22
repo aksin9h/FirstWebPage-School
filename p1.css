@@ -1,0 +1,29 @@
+li {
+    display: inline;
+    padding: 7vw;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.cont {
+    width: 35vw;
+    text-align: justify;
+    background-color: pink;
+    height:4 0vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.mission {
+    width: 35vw;
+    text-align: justify;
+    /* float:right */
+    background-color: pink;
+    height:40vh;
+}
